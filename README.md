@@ -132,4 +132,3 @@ Copyright © 2026 Jean-François Lachance-Caumartin. All rights reserved.
 ---
 
 *🦑 Part of the Krakken Cryptographic Ecosystem — Command-Line Edition*
-```
