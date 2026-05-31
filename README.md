@@ -13,7 +13,7 @@
 ## 📸 Screenshot
 
 <div align="center">
-  <img src="screenshot.png" alt="Secure Wipe (swipe) - Interactive Command-Line Interface" width="700"/>
+  <img src="screenshot.png" alt="Secure Wipe (swipe) - Interactive Command-Line Interface" width="600"/>
   <br/>
   <em>Interactive command-line menu for file, directory, free space, and RAM sanitization</em>
 </div>
