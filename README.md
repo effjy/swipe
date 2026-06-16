@@ -1,10 +1,14 @@
-# Secure Wipe (swipe)
+<div align="center">
+
+<a href="https://github.com/effjy/swipe/"><img src="titles/secure-wipe-title.svg" height="44" alt="Secure Wipe"></a>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Version](https://img.shields.io/badge/version-1.0.0-brightgreen)]()
 [![Language](https://img.shields.io/badge/language-C-blue)]()
 [![Platform](https://img.shields.io/badge/platform-Linux-important)]()
 [![Standards](https://img.shields.io/badge/standards-NIST%20SP%20800--88%20%2F%20FIPS%20140--3-blue)]()
+
+</div>
 
 **Secure Wipe** is the command-line counterpart to **Virtual Wipe Turbo**. It is a robust, interactive data sanitization utility designed for secure environments, aligning with **NIST SP 800-88 Rev. 1** and **FIPS 140-3** standards to ensure sensitive data is irrecoverably destroyed.
 
