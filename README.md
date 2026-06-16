@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://github.com/effjy/swipe/"><img src="titles/secure-wipe-title.svg" height="44" alt="Secure Wipe"></a>
+<a href="https://github.com/effjy/swipe/"><img src="titles/secure-wipe-title.svg" height="52" alt="Secure Wipe"></a>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Version](https://img.shields.io/badge/version-1.0.0-brightgreen)]()
